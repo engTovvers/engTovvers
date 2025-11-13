@@ -31,8 +31,4 @@ I'm a **Telecommunications and Software Engineer** with strong experience in net
 - Cryptography and Security Protocols
 - Pentesting and Ethical Hacking
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engTovvers&show_icons=true&theme=radical)
-
----
 ⚡ **"Security is not a product, but a process"** - Bruce Schneier
