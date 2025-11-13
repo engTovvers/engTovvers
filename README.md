@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Torres!
 
-<img align="right" alt="Hacker Cat" width="200" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/hacker-cat.gif">
+<img align="right" alt="Coding Cat" width="100" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 ## 🎓 About Me
 I'm a **Telecommunications and Software Engineer** with strong experience in networks, signal processing, and communication systems. Currently, I'm specializing in **CyberSecurity**, combining my knowledge of network infrastructures with advanced security practices.
