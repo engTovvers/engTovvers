@@ -2,12 +2,12 @@
 
 ## 🎓 About Me
 
-I'm a **Telecommunications and Software Engineer** with strong experience in networks, signal processing, and communication systems. Currently, I'm specializing in **CyberSecurity**, combining my knowledge of network infrastructures with advanced security practices. <img align="right" alt="Coding Cat" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png">
+I'm a **Telecommunications and Software Engineer** with strong experience in networks, signal processing, and communication systems. Currently, I'm specializing in **CyberSecurity**, combining my knowledge of network infrastructures with advanced security 
 
 ## 🔧 Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <img align="right" alt="Coding Cat" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
