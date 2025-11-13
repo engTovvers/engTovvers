@@ -33,6 +33,7 @@ I'm a **Telecommunications and Software Engineer** with strong experience in net
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🎯 Areas of Expertise
 - 📡 **Telecommunications**: Networks, antennas, and communication systems
