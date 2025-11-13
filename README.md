@@ -32,7 +32,7 @@ I'm a **Telecommunications and Software Engineer** with strong experience in net
 - Pentesting and Ethical Hacking
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-engTovvers&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engTovvers&show_icons=true&theme=radical)
 
 ---
 ⚡ **"Security is not a product, but a process"** - Bruce Schneier
