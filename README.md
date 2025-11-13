@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Coding Cat" width="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png">
+<img align="right" alt="Coding Cat" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png">
 
 ## 🎓 About Me
 I'm a **Telecommunications and Software Engineer** with strong experience in networks, signal processing, and communication systems. Currently, I'm specializing in **CyberSecurity**, combining my knowledge of network infrastructures with advanced security practices.
