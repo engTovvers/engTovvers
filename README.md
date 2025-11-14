@@ -39,13 +39,5 @@ I'm a **Telecommunications and Software Engineer** with strong experience in net
 - 📡 **Telecommunications**: Networks, antennas, and communication systems
 - 🔐 **CyberSecurity**: Network and infrastructure security
 - 📊 **Signal Processing**: Digital signal analysis and processing
-- 🧮 **Applied Mathematics**: Algorithms and mathematical modeling
-
-## 🌱 Currently Learning
-- Offensive and Defensive Security
-- Vulnerability Analysis
-- Cryptography and Security Protocols
-- Pentesting and Ethical Hacking
-
 ---
 ⚡ **"Security is not a product, but a process"** - Bruce Schneier
