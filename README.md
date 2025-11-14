@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Torres!
-
 ## 🎓 About Me
 
 I'm a **Telecommunications and Software Engineer** with strong experience in networks, signal processing, and communication systems. Currently, I'm specializing in **CyberSecurity**, combining my knowledge of network infrastructures with advanced security 
